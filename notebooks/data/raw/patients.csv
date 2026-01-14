@@ -1,0 +1,1001 @@
+patient_id,age,gender,chronic_condition,region
+1,69,Male,Heart Disease,South
+2,32,Male,Heart Disease,South
+3,89,Female,Heart Disease,South
+4,78,Male,Diabetes,West
+5,38,Male,Heart Disease,West
+6,41,Male,Hypertension,South
+7,20,Male,Hypertension,West
+8,39,Female,None,East
+9,70,Male,Diabetes,East
+10,19,Male,Heart Disease,West
+11,47,Male,Heart Disease,West
+12,55,Male,Hypertension,East
+13,19,Female,Diabetes,North
+14,81,Female,Diabetes,East
+15,77,Male,None,East
+16,38,Male,Hypertension,West
+17,50,Male,Hypertension,East
+18,75,Male,Hypertension,West
+19,39,Male,Heart Disease,West
+20,66,Male,Diabetes,South
+21,76,Female,Hypertension,East
+22,59,Male,Heart Disease,North
+23,77,Female,None,South
+24,32,Female,Hypertension,West
+25,79,Male,Hypertension,West
+26,79,Female,Hypertension,North
+27,64,Female,Heart Disease,West
+28,79,Female,Hypertension,East
+29,68,Female,Heart Disease,South
+30,72,Female,None,West
+31,81,Female,None,West
+32,20,Male,Hypertension,North
+33,68,Female,None,East
+34,24,Female,Heart Disease,West
+35,38,Female,Heart Disease,North
+36,56,Male,Diabetes,West
+37,35,Female,None,North
+38,21,Male,Diabetes,North
+39,77,Female,Diabetes,East
+40,31,Male,Diabetes,West
+41,26,Male,Heart Disease,East
+42,70,Female,Diabetes,North
+43,19,Female,Diabetes,South
+44,77,Male,Diabetes,West
+45,88,Female,Diabetes,South
+46,61,Male,Heart Disease,West
+47,25,Male,Heart Disease,East
+48,64,Male,Hypertension,East
+49,52,Male,Hypertension,East
+50,53,Male,Heart Disease,East
+51,67,Female,Diabetes,East
+52,21,Male,Hypertension,South
+53,19,Male,None,East
+54,23,Female,Heart Disease,North
+55,71,Male,Hypertension,North
+56,21,Female,Heart Disease,South
+57,71,Female,Hypertension,West
+58,80,Female,Heart Disease,North
+59,35,Male,Diabetes,West
+60,61,Male,Diabetes,South
+61,51,Male,Diabetes,West
+62,79,Female,None,West
+63,31,Male,None,West
+64,65,Female,Diabetes,West
+65,32,Male,Diabetes,South
+66,89,Female,None,North
+67,79,Male,Diabetes,East
+68,57,Male,Diabetes,West
+69,70,Male,None,North
+70,41,Female,Hypertension,North
+71,43,Female,Heart Disease,South
+72,77,Male,None,North
+73,58,Male,Hypertension,South
+74,46,Female,Diabetes,West
+75,32,Female,Diabetes,West
+76,62,Female,None,East
+77,82,Male,None,East
+78,88,Female,None,East
+79,26,Male,Diabetes,North
+80,18,Female,None,West
+81,25,Male,None,South
+82,80,Female,Heart Disease,East
+83,28,Female,None,South
+84,25,Female,None,South
+85,52,Female,Heart Disease,East
+86,52,Female,Heart Disease,West
+87,50,Male,Hypertension,East
+88,22,Female,Diabetes,South
+89,58,Female,Heart Disease,East
+90,45,Female,Hypertension,South
+91,24,Male,None,South
+92,89,Female,None,East
+93,29,Male,None,North
+94,51,Female,Diabetes,East
+95,50,Female,Hypertension,North
+96,65,Male,Diabetes,South
+97,40,Female,Heart Disease,South
+98,79,Male,None,North
+99,54,Male,None,South
+100,61,Female,Hypertension,North
+101,52,Male,None,North
+102,82,Female,None,South
+103,64,Female,Hypertension,West
+104,20,Male,None,North
+105,18,Male,Hypertension,East
+106,22,Male,Hypertension,East
+107,31,Male,Heart Disease,South
+108,44,Female,Hypertension,West
+109,26,Female,Heart Disease,South
+110,32,Male,Heart Disease,West
+111,59,Female,Heart Disease,North
+112,68,Female,Hypertension,North
+113,80,Female,Heart Disease,North
+114,69,Female,Heart Disease,North
+115,21,Male,Heart Disease,East
+116,40,Male,Hypertension,East
+117,32,Female,Diabetes,South
+118,60,Male,Heart Disease,West
+119,46,Male,Diabetes,North
+120,53,Male,Heart Disease,North
+121,30,Female,None,West
+122,49,Female,Heart Disease,West
+123,88,Female,Heart Disease,South
+124,76,Male,None,West
+125,45,Female,None,North
+126,83,Female,None,North
+127,59,Male,None,North
+128,62,Female,Diabetes,North
+129,79,Female,Diabetes,North
+130,74,Male,Heart Disease,South
+131,23,Male,Diabetes,North
+132,45,Male,Hypertension,South
+133,45,Female,Hypertension,North
+134,61,Female,Heart Disease,East
+135,47,Female,None,East
+136,79,Male,None,East
+137,79,Male,Heart Disease,East
+138,18,Female,None,South
+139,44,Female,Hypertension,South
+140,79,Male,None,West
+141,20,Male,Diabetes,North
+142,87,Male,None,East
+143,89,Male,Heart Disease,South
+144,44,Female,Hypertension,North
+145,26,Male,Diabetes,North
+146,79,Female,Hypertension,South
+147,54,Female,Diabetes,East
+148,68,Female,Diabetes,West
+149,61,Male,Heart Disease,North
+150,41,Male,Heart Disease,West
+151,76,Male,Heart Disease,East
+152,49,Male,None,East
+153,69,Female,Heart Disease,West
+154,79,Male,Heart Disease,East
+155,75,Male,Diabetes,North
+156,69,Female,None,West
+157,29,Male,Hypertension,East
+158,56,Female,None,West
+159,19,Female,None,North
+160,20,Female,Heart Disease,East
+161,73,Female,Diabetes,North
+162,76,Female,None,East
+163,19,Female,None,South
+164,19,Female,Diabetes,East
+165,71,Female,Hypertension,West
+166,18,Male,None,East
+167,36,Male,Diabetes,North
+168,19,Male,None,North
+169,70,Male,Hypertension,East
+170,61,Female,Diabetes,West
+171,49,Male,None,South
+172,87,Female,Hypertension,West
+173,49,Male,Heart Disease,South
+174,85,Male,Diabetes,North
+175,72,Male,Diabetes,West
+176,73,Female,Heart Disease,South
+177,34,Male,Heart Disease,East
+178,55,Female,Heart Disease,North
+179,41,Female,None,East
+180,86,Male,Heart Disease,North
+181,87,Male,Diabetes,West
+182,28,Male,Hypertension,West
+183,33,Female,None,North
+184,76,Male,None,North
+185,87,Female,Heart Disease,North
+186,20,Female,Hypertension,West
+187,37,Male,Hypertension,South
+188,76,Male,None,East
+189,53,Female,None,East
+190,36,Female,Heart Disease,West
+191,84,Female,None,East
+192,36,Male,None,North
+193,37,Female,Diabetes,South
+194,88,Male,Hypertension,East
+195,69,Female,Diabetes,South
+196,50,Female,Diabetes,North
+197,57,Male,None,East
+198,56,Female,Hypertension,West
+199,18,Male,Heart Disease,South
+200,28,Male,Diabetes,North
+201,74,Female,Hypertension,South
+202,67,Male,Diabetes,East
+203,40,Male,Diabetes,East
+204,48,Female,Heart Disease,West
+205,59,Male,Hypertension,North
+206,24,Male,Heart Disease,North
+207,33,Male,Diabetes,West
+208,77,Female,Diabetes,West
+209,19,Male,Hypertension,North
+210,18,Female,Heart Disease,South
+211,65,Female,Heart Disease,South
+212,29,Male,Hypertension,West
+213,86,Male,Hypertension,South
+214,54,Male,None,North
+215,49,Female,Diabetes,East
+216,26,Male,Hypertension,East
+217,36,Male,None,South
+218,65,Male,Heart Disease,West
+219,20,Male,Hypertension,West
+220,37,Male,None,West
+221,41,Female,None,West
+222,71,Female,Hypertension,West
+223,50,Male,Heart Disease,South
+224,41,Male,Heart Disease,East
+225,89,Male,Hypertension,East
+226,53,Male,Hypertension,South
+227,55,Female,Hypertension,West
+228,42,Male,Heart Disease,South
+229,35,Female,Hypertension,East
+230,83,Female,None,North
+231,71,Male,Heart Disease,South
+232,52,Female,Diabetes,West
+233,78,Female,Heart Disease,East
+234,58,Female,Hypertension,East
+235,50,Female,Heart Disease,East
+236,85,Male,Heart Disease,East
+237,50,Male,Diabetes,West
+238,31,Female,Hypertension,North
+239,38,Male,Diabetes,East
+240,65,Male,Diabetes,South
+241,37,Male,Hypertension,North
+242,25,Male,Hypertension,East
+243,24,Male,None,North
+244,84,Female,Hypertension,South
+245,34,Male,Hypertension,East
+246,50,Male,Heart Disease,South
+247,65,Male,Diabetes,West
+248,76,Male,None,East
+249,39,Female,Heart Disease,East
+250,47,Female,None,East
+251,55,Female,Diabetes,East
+252,68,Female,Hypertension,West
+253,71,Male,Hypertension,East
+254,25,Female,None,North
+255,44,Male,Diabetes,East
+256,44,Male,Hypertension,West
+257,38,Male,None,East
+258,47,Male,Hypertension,North
+259,45,Male,Hypertension,West
+260,81,Female,Diabetes,West
+261,86,Female,None,North
+262,78,Female,Diabetes,North
+263,65,Female,None,North
+264,36,Male,None,North
+265,21,Female,Diabetes,North
+266,52,Male,Heart Disease,West
+267,81,Female,Diabetes,West
+268,66,Male,Hypertension,East
+269,34,Male,None,East
+270,61,Female,None,South
+271,47,Male,Heart Disease,East
+272,63,Male,Heart Disease,East
+273,23,Female,Diabetes,North
+274,54,Male,Diabetes,North
+275,41,Female,Diabetes,East
+276,63,Female,Diabetes,South
+277,70,Female,Hypertension,North
+278,77,Male,Hypertension,East
+279,80,Male,Hypertension,East
+280,49,Male,Diabetes,West
+281,50,Female,Heart Disease,South
+282,84,Male,None,West
+283,35,Female,Hypertension,South
+284,42,Female,None,North
+285,71,Male,None,South
+286,75,Female,Diabetes,East
+287,84,Male,None,East
+288,63,Male,Heart Disease,South
+289,41,Male,Heart Disease,South
+290,49,Male,Hypertension,South
+291,64,Male,Heart Disease,West
+292,40,Female,Hypertension,South
+293,83,Female,Heart Disease,North
+294,44,Female,Heart Disease,West
+295,19,Male,Heart Disease,West
+296,34,Male,Heart Disease,South
+297,50,Male,None,North
+298,26,Female,Diabetes,West
+299,60,Male,Diabetes,East
+300,65,Female,None,West
+301,56,Female,Hypertension,South
+302,59,Male,Diabetes,North
+303,43,Male,Diabetes,South
+304,67,Female,Diabetes,East
+305,42,Male,None,East
+306,41,Female,Heart Disease,East
+307,30,Male,None,South
+308,77,Male,Heart Disease,West
+309,24,Female,Hypertension,South
+310,74,Male,Hypertension,North
+311,53,Female,Heart Disease,West
+312,62,Male,Diabetes,East
+313,37,Female,None,South
+314,82,Female,None,East
+315,25,Male,Hypertension,East
+316,33,Female,None,North
+317,31,Male,None,West
+318,32,Male,Heart Disease,North
+319,83,Male,Diabetes,North
+320,49,Female,Hypertension,North
+321,80,Female,Heart Disease,East
+322,68,Male,Diabetes,North
+323,42,Male,Diabetes,North
+324,75,Female,None,West
+325,80,Male,Diabetes,West
+326,79,Male,Heart Disease,North
+327,39,Female,None,West
+328,75,Male,None,West
+329,75,Female,Hypertension,North
+330,66,Male,None,East
+331,69,Female,Diabetes,North
+332,59,Male,Diabetes,West
+333,87,Male,Heart Disease,East
+334,32,Female,Hypertension,South
+335,71,Male,Hypertension,East
+336,77,Female,Heart Disease,West
+337,25,Male,Diabetes,East
+338,70,Female,Diabetes,North
+339,77,Female,Hypertension,South
+340,22,Female,None,South
+341,85,Female,Heart Disease,South
+342,23,Male,Hypertension,West
+343,64,Male,Hypertension,West
+344,72,Female,Diabetes,South
+345,57,Female,Diabetes,East
+346,69,Female,None,South
+347,33,Male,Hypertension,East
+348,30,Male,Diabetes,East
+349,47,Male,Heart Disease,West
+350,36,Male,Heart Disease,East
+351,34,Female,Heart Disease,South
+352,80,Female,Diabetes,West
+353,36,Female,Diabetes,North
+354,75,Male,Diabetes,North
+355,72,Male,Diabetes,West
+356,79,Male,Heart Disease,South
+357,40,Female,None,North
+358,26,Female,None,North
+359,29,Male,None,East
+360,18,Female,Hypertension,East
+361,75,Male,Heart Disease,South
+362,18,Male,Hypertension,West
+363,51,Female,Heart Disease,South
+364,65,Male,Hypertension,West
+365,18,Female,Diabetes,North
+366,33,Male,Hypertension,East
+367,78,Female,None,South
+368,81,Female,Diabetes,South
+369,80,Female,Diabetes,West
+370,86,Male,Hypertension,West
+371,39,Male,None,South
+372,84,Female,Heart Disease,West
+373,43,Female,Heart Disease,South
+374,33,Male,Diabetes,South
+375,68,Male,Heart Disease,South
+376,74,Male,Hypertension,North
+377,46,Female,None,West
+378,86,Male,Heart Disease,East
+379,64,Male,Diabetes,East
+380,79,Female,Diabetes,West
+381,86,Male,Diabetes,South
+382,33,Male,Hypertension,East
+383,65,Male,Hypertension,East
+384,56,Female,Heart Disease,West
+385,50,Female,Hypertension,East
+386,40,Female,Hypertension,South
+387,27,Female,Diabetes,West
+388,86,Female,Diabetes,South
+389,51,Female,None,East
+390,69,Female,Diabetes,East
+391,27,Male,Heart Disease,South
+392,36,Male,None,North
+393,75,Female,Heart Disease,East
+394,18,Male,None,North
+395,86,Male,Hypertension,East
+396,21,Female,None,North
+397,33,Male,Diabetes,North
+398,41,Male,Diabetes,North
+399,19,Male,Heart Disease,South
+400,49,Male,None,North
+401,41,Male,None,North
+402,29,Female,Diabetes,North
+403,67,Female,Hypertension,East
+404,52,Female,None,North
+405,50,Male,Hypertension,East
+406,50,Female,None,North
+407,78,Male,None,North
+408,68,Male,Hypertension,South
+409,60,Male,Hypertension,East
+410,29,Male,Hypertension,North
+411,84,Female,Diabetes,East
+412,82,Female,None,East
+413,50,Male,Hypertension,West
+414,57,Female,None,South
+415,60,Male,Diabetes,South
+416,61,Female,None,South
+417,46,Female,Hypertension,West
+418,30,Male,Diabetes,West
+419,29,Female,Diabetes,South
+420,63,Male,None,West
+421,19,Female,Heart Disease,West
+422,52,Male,None,West
+423,25,Male,Diabetes,South
+424,43,Female,Diabetes,South
+425,51,Female,Heart Disease,South
+426,24,Male,Hypertension,West
+427,85,Female,Hypertension,South
+428,75,Female,None,West
+429,46,Male,None,North
+430,53,Male,None,West
+431,38,Female,None,East
+432,53,Male,Hypertension,South
+433,27,Male,Hypertension,South
+434,41,Male,Heart Disease,East
+435,81,Female,None,West
+436,66,Female,Diabetes,North
+437,53,Male,Hypertension,East
+438,41,Female,Diabetes,East
+439,40,Male,Heart Disease,West
+440,79,Female,None,South
+441,54,Male,None,West
+442,29,Male,Diabetes,East
+443,72,Female,None,East
+444,30,Male,Heart Disease,South
+445,40,Female,Diabetes,South
+446,47,Female,Hypertension,South
+447,34,Male,Hypertension,West
+448,79,Male,Diabetes,South
+449,30,Female,None,East
+450,76,Male,Hypertension,East
+451,36,Male,None,North
+452,66,Male,Hypertension,West
+453,29,Male,Diabetes,North
+454,78,Male,Hypertension,East
+455,36,Female,Diabetes,North
+456,26,Female,Hypertension,East
+457,88,Male,None,North
+458,45,Male,Heart Disease,South
+459,69,Male,Heart Disease,North
+460,33,Female,Diabetes,South
+461,86,Male,Diabetes,South
+462,29,Female,Diabetes,West
+463,42,Female,Heart Disease,South
+464,69,Female,Diabetes,South
+465,70,Male,Hypertension,North
+466,40,Female,Heart Disease,East
+467,33,Male,Hypertension,West
+468,74,Female,Diabetes,South
+469,56,Male,Hypertension,West
+470,70,Female,None,North
+471,59,Male,Heart Disease,South
+472,75,Female,Hypertension,North
+473,56,Male,Diabetes,West
+474,31,Male,None,North
+475,22,Male,Heart Disease,West
+476,52,Male,Hypertension,North
+477,35,Female,None,West
+478,26,Female,Hypertension,East
+479,75,Male,Heart Disease,North
+480,34,Female,Heart Disease,North
+481,24,Male,Diabetes,East
+482,63,Male,None,East
+483,30,Female,None,North
+484,57,Male,Heart Disease,East
+485,59,Male,Diabetes,South
+486,26,Female,Diabetes,West
+487,67,Male,Hypertension,West
+488,44,Male,None,West
+489,83,Male,Hypertension,South
+490,22,Male,Heart Disease,East
+491,46,Female,None,East
+492,54,Female,Diabetes,North
+493,55,Female,Heart Disease,East
+494,25,Male,Diabetes,North
+495,82,Male,None,South
+496,34,Female,Hypertension,West
+497,88,Male,Diabetes,West
+498,62,Male,Hypertension,West
+499,21,Male,Hypertension,East
+500,53,Male,None,North
+501,87,Female,None,North
+502,48,Female,Heart Disease,South
+503,36,Female,Diabetes,East
+504,78,Male,Diabetes,South
+505,71,Female,Diabetes,North
+506,56,Female,Heart Disease,North
+507,36,Male,None,West
+508,56,Male,Hypertension,East
+509,84,Female,Diabetes,North
+510,62,Female,Heart Disease,West
+511,30,Female,None,East
+512,75,Female,None,South
+513,37,Male,None,East
+514,89,Female,Hypertension,East
+515,78,Female,Diabetes,North
+516,56,Male,None,North
+517,18,Female,Heart Disease,East
+518,20,Male,Hypertension,North
+519,79,Male,None,North
+520,80,Male,None,North
+521,42,Female,Heart Disease,West
+522,73,Female,Heart Disease,West
+523,50,Male,Hypertension,East
+524,55,Female,Heart Disease,North
+525,23,Female,Heart Disease,West
+526,75,Male,None,East
+527,61,Male,None,North
+528,62,Female,None,South
+529,49,Male,Diabetes,North
+530,62,Female,None,North
+531,78,Female,None,West
+532,64,Female,Heart Disease,East
+533,38,Female,None,East
+534,53,Male,None,West
+535,36,Male,Hypertension,North
+536,37,Male,Heart Disease,South
+537,74,Male,Diabetes,North
+538,35,Female,Hypertension,North
+539,64,Female,Heart Disease,South
+540,66,Male,None,West
+541,31,Female,Diabetes,East
+542,32,Female,Diabetes,West
+543,48,Female,Heart Disease,West
+544,18,Male,Diabetes,North
+545,71,Male,Diabetes,East
+546,20,Male,Diabetes,East
+547,33,Female,Diabetes,West
+548,74,Male,Diabetes,South
+549,29,Male,Hypertension,West
+550,33,Male,Hypertension,South
+551,89,Male,None,East
+552,41,Male,Heart Disease,West
+553,45,Male,None,North
+554,25,Female,Diabetes,West
+555,53,Female,Diabetes,East
+556,25,Male,None,North
+557,75,Male,Diabetes,North
+558,77,Female,Hypertension,South
+559,67,Female,Heart Disease,North
+560,45,Male,Heart Disease,North
+561,58,Male,Diabetes,West
+562,81,Male,Hypertension,East
+563,44,Male,Heart Disease,South
+564,80,Female,Diabetes,West
+565,34,Male,Heart Disease,North
+566,50,Male,None,North
+567,46,Male,None,South
+568,30,Male,Diabetes,East
+569,63,Female,None,South
+570,52,Female,Heart Disease,West
+571,23,Female,Hypertension,South
+572,86,Male,Diabetes,North
+573,64,Male,None,West
+574,42,Female,Diabetes,North
+575,83,Male,Hypertension,East
+576,27,Male,Diabetes,North
+577,73,Female,None,North
+578,47,Female,None,South
+579,22,Female,None,North
+580,50,Female,Hypertension,West
+581,82,Male,Diabetes,West
+582,35,Male,Heart Disease,East
+583,66,Female,Hypertension,West
+584,28,Male,Diabetes,South
+585,43,Female,Heart Disease,East
+586,80,Female,None,West
+587,76,Male,None,South
+588,44,Female,None,West
+589,66,Male,None,West
+590,50,Male,Diabetes,North
+591,18,Male,Heart Disease,West
+592,38,Male,None,West
+593,72,Female,Diabetes,South
+594,23,Male,None,South
+595,86,Female,Heart Disease,North
+596,22,Female,Heart Disease,West
+597,20,Female,Heart Disease,North
+598,70,Female,None,West
+599,40,Male,None,East
+600,70,Male,Diabetes,East
+601,54,Female,None,North
+602,34,Female,Diabetes,North
+603,18,Male,Hypertension,North
+604,68,Female,Hypertension,South
+605,62,Male,Hypertension,South
+606,21,Female,Hypertension,South
+607,79,Male,None,North
+608,82,Female,None,West
+609,49,Female,Heart Disease,East
+610,51,Male,Diabetes,North
+611,89,Female,None,South
+612,56,Female,None,South
+613,43,Male,None,North
+614,51,Female,Diabetes,North
+615,71,Male,Diabetes,South
+616,20,Male,Diabetes,West
+617,67,Female,Diabetes,South
+618,29,Female,Hypertension,South
+619,82,Female,None,North
+620,71,Female,Hypertension,West
+621,22,Female,Diabetes,South
+622,74,Female,Hypertension,South
+623,34,Female,Diabetes,East
+624,64,Male,Diabetes,North
+625,40,Female,Hypertension,East
+626,31,Male,Hypertension,East
+627,83,Female,None,South
+628,68,Female,None,North
+629,55,Male,Hypertension,West
+630,81,Female,Hypertension,South
+631,55,Female,None,West
+632,67,Male,Hypertension,West
+633,47,Female,Diabetes,North
+634,68,Female,None,East
+635,80,Female,Diabetes,North
+636,69,Male,Heart Disease,West
+637,55,Female,Heart Disease,South
+638,47,Female,Hypertension,West
+639,68,Female,Hypertension,South
+640,22,Female,None,South
+641,46,Male,Diabetes,North
+642,21,Male,Diabetes,West
+643,27,Female,None,East
+644,73,Female,Heart Disease,West
+645,34,Male,Diabetes,West
+646,34,Male,None,East
+647,86,Female,Hypertension,North
+648,51,Male,None,West
+649,23,Female,None,West
+650,70,Male,Heart Disease,South
+651,83,Male,Hypertension,West
+652,60,Male,None,East
+653,40,Male,Diabetes,South
+654,72,Female,None,North
+655,33,Male,Diabetes,South
+656,25,Male,Hypertension,East
+657,21,Female,Hypertension,East
+658,21,Male,None,South
+659,73,Male,None,North
+660,42,Female,Diabetes,South
+661,84,Male,Diabetes,North
+662,84,Female,None,South
+663,44,Female,Hypertension,East
+664,49,Female,Diabetes,West
+665,67,Female,Heart Disease,West
+666,78,Male,Heart Disease,North
+667,68,Female,None,North
+668,36,Male,Diabetes,North
+669,38,Male,Hypertension,East
+670,22,Male,Heart Disease,South
+671,59,Male,None,East
+672,78,Male,Heart Disease,West
+673,39,Male,Heart Disease,North
+674,38,Male,Diabetes,South
+675,87,Male,None,West
+676,18,Male,Hypertension,West
+677,22,Male,Diabetes,West
+678,29,Female,Heart Disease,East
+679,63,Female,Diabetes,North
+680,51,Female,Diabetes,West
+681,66,Male,None,North
+682,62,Female,Hypertension,East
+683,44,Female,None,West
+684,43,Female,Hypertension,East
+685,64,Male,None,East
+686,73,Male,Diabetes,North
+687,80,Male,Hypertension,West
+688,65,Male,None,East
+689,78,Female,None,West
+690,43,Female,Hypertension,North
+691,53,Female,Hypertension,East
+692,18,Female,None,North
+693,25,Male,Heart Disease,West
+694,69,Male,None,West
+695,64,Male,None,North
+696,73,Female,Diabetes,South
+697,31,Male,Diabetes,East
+698,45,Male,Heart Disease,West
+699,19,Female,Diabetes,West
+700,43,Female,Hypertension,East
+701,31,Male,None,North
+702,76,Male,Heart Disease,North
+703,73,Male,None,North
+704,24,Male,Heart Disease,South
+705,20,Male,Heart Disease,South
+706,40,Male,Diabetes,West
+707,35,Female,Hypertension,North
+708,55,Female,Hypertension,East
+709,32,Female,Hypertension,West
+710,81,Male,None,East
+711,45,Female,Hypertension,West
+712,56,Male,Hypertension,South
+713,74,Male,Hypertension,West
+714,34,Female,Diabetes,South
+715,61,Male,Hypertension,West
+716,42,Male,Diabetes,North
+717,34,Female,Diabetes,East
+718,30,Female,Diabetes,North
+719,42,Female,Hypertension,West
+720,85,Male,None,West
+721,27,Female,Hypertension,West
+722,84,Female,Hypertension,South
+723,35,Male,Heart Disease,East
+724,51,Female,Diabetes,East
+725,25,Female,None,West
+726,57,Female,Heart Disease,West
+727,59,Male,Hypertension,South
+728,58,Male,Heart Disease,North
+729,23,Male,Diabetes,North
+730,69,Male,Heart Disease,East
+731,43,Female,Hypertension,South
+732,81,Male,None,West
+733,76,Male,Diabetes,East
+734,73,Female,Heart Disease,South
+735,76,Female,Heart Disease,North
+736,87,Female,Diabetes,South
+737,50,Male,Hypertension,North
+738,70,Male,None,South
+739,39,Male,None,East
+740,38,Female,Hypertension,North
+741,87,Female,None,East
+742,87,Male,None,East
+743,21,Female,None,North
+744,79,Female,Diabetes,North
+745,79,Female,None,West
+746,41,Male,Hypertension,West
+747,72,Female,None,West
+748,26,Female,Hypertension,East
+749,20,Male,Diabetes,East
+750,48,Male,None,West
+751,57,Female,Hypertension,East
+752,53,Female,None,East
+753,41,Male,None,North
+754,23,Male,Heart Disease,North
+755,83,Female,Diabetes,East
+756,21,Female,Heart Disease,West
+757,23,Female,Diabetes,South
+758,68,Female,Diabetes,West
+759,79,Male,None,South
+760,74,Female,Diabetes,West
+761,83,Female,Hypertension,North
+762,25,Male,None,East
+763,43,Female,Hypertension,East
+764,68,Male,Hypertension,North
+765,62,Female,None,South
+766,61,Female,Diabetes,South
+767,22,Male,None,South
+768,87,Male,None,North
+769,43,Female,None,South
+770,85,Female,Heart Disease,North
+771,36,Female,Hypertension,West
+772,37,Male,Hypertension,West
+773,29,Female,None,North
+774,64,Male,None,East
+775,18,Male,Heart Disease,West
+776,31,Female,Diabetes,South
+777,81,Male,Diabetes,North
+778,55,Female,Diabetes,South
+779,54,Female,None,South
+780,28,Female,Hypertension,East
+781,20,Female,None,South
+782,50,Female,None,East
+783,23,Male,Diabetes,West
+784,67,Male,Heart Disease,North
+785,27,Female,Hypertension,South
+786,22,Female,Heart Disease,North
+787,40,Male,None,South
+788,27,Male,None,North
+789,61,Male,None,South
+790,19,Male,Hypertension,South
+791,30,Female,Diabetes,South
+792,57,Female,None,South
+793,19,Male,Diabetes,South
+794,82,Female,Hypertension,South
+795,80,Male,Diabetes,South
+796,34,Female,Heart Disease,South
+797,26,Male,Diabetes,South
+798,32,Female,Heart Disease,North
+799,41,Male,None,East
+800,55,Male,Diabetes,South
+801,52,Female,Diabetes,East
+802,66,Male,Hypertension,South
+803,86,Female,None,South
+804,79,Female,Diabetes,North
+805,77,Male,Hypertension,West
+806,67,Female,Diabetes,West
+807,26,Female,None,North
+808,51,Female,Hypertension,East
+809,52,Female,None,West
+810,18,Female,None,North
+811,57,Male,Diabetes,North
+812,81,Female,None,West
+813,39,Female,Diabetes,East
+814,77,Female,None,North
+815,81,Female,Heart Disease,South
+816,89,Female,None,East
+817,28,Male,Diabetes,East
+818,31,Female,Diabetes,West
+819,77,Male,Hypertension,West
+820,47,Male,Hypertension,South
+821,52,Male,Diabetes,North
+822,54,Male,Hypertension,West
+823,22,Female,Diabetes,West
+824,43,Male,Hypertension,East
+825,79,Male,None,West
+826,21,Female,Hypertension,West
+827,59,Female,Diabetes,West
+828,35,Female,Hypertension,West
+829,57,Male,Diabetes,East
+830,89,Female,None,South
+831,56,Female,Diabetes,South
+832,31,Male,None,North
+833,49,Female,None,West
+834,68,Female,None,East
+835,55,Female,Heart Disease,North
+836,40,Female,None,North
+837,80,Male,None,South
+838,32,Female,Heart Disease,East
+839,42,Female,Heart Disease,East
+840,34,Male,Heart Disease,East
+841,83,Female,Heart Disease,South
+842,70,Male,Heart Disease,South
+843,68,Female,Hypertension,South
+844,56,Male,Diabetes,South
+845,68,Male,Diabetes,South
+846,87,Male,Diabetes,West
+847,23,Male,Hypertension,West
+848,84,Female,Diabetes,East
+849,24,Male,Heart Disease,North
+850,68,Female,Hypertension,East
+851,89,Male,None,North
+852,59,Male,Diabetes,South
+853,81,Male,Diabetes,North
+854,32,Female,None,East
+855,46,Male,Heart Disease,East
+856,50,Female,Diabetes,North
+857,44,Female,None,West
+858,53,Female,None,South
+859,46,Female,Hypertension,South
+860,55,Female,Hypertension,East
+861,74,Female,None,West
+862,44,Female,Heart Disease,North
+863,72,Female,Heart Disease,South
+864,50,Female,None,West
+865,85,Male,Hypertension,South
+866,83,Male,Hypertension,West
+867,27,Male,Hypertension,West
+868,22,Male,None,East
+869,55,Male,Heart Disease,South
+870,30,Female,Heart Disease,North
+871,48,Female,Hypertension,East
+872,64,Female,Diabetes,East
+873,69,Female,Hypertension,North
+874,73,Female,None,East
+875,32,Female,Heart Disease,West
+876,46,Female,Diabetes,West
+877,25,Male,None,South
+878,22,Male,Diabetes,South
+879,46,Male,None,North
+880,64,Male,Diabetes,South
+881,85,Female,Heart Disease,West
+882,62,Female,Diabetes,North
+883,19,Female,None,North
+884,44,Male,Hypertension,South
+885,53,Female,Diabetes,West
+886,53,Female,Hypertension,North
+887,43,Female,Diabetes,West
+888,60,Male,Diabetes,West
+889,44,Female,None,West
+890,86,Male,Hypertension,South
+891,37,Male,None,East
+892,28,Male,Heart Disease,East
+893,55,Male,Heart Disease,North
+894,23,Female,Diabetes,West
+895,89,Male,Diabetes,South
+896,40,Male,None,West
+897,64,Female,None,West
+898,63,Female,Hypertension,South
+899,29,Male,Hypertension,East
+900,30,Female,Hypertension,West
+901,79,Male,None,West
+902,77,Male,Hypertension,East
+903,60,Male,Hypertension,South
+904,85,Male,None,North
+905,22,Female,Diabetes,East
+906,54,Male,Diabetes,North
+907,89,Female,Heart Disease,North
+908,48,Female,None,East
+909,26,Female,Diabetes,West
+910,68,Female,Hypertension,North
+911,46,Male,Hypertension,North
+912,57,Female,Hypertension,South
+913,58,Male,Heart Disease,West
+914,28,Female,Hypertension,North
+915,40,Female,Hypertension,South
+916,18,Male,Hypertension,West
+917,63,Male,Heart Disease,East
+918,38,Male,Heart Disease,East
+919,53,Female,None,South
+920,71,Female,Diabetes,East
+921,74,Male,None,North
+922,18,Male,None,West
+923,80,Male,Hypertension,North
+924,71,Male,Hypertension,North
+925,72,Female,Hypertension,East
+926,57,Male,Diabetes,North
+927,32,Male,Hypertension,East
+928,38,Male,Diabetes,West
+929,64,Male,Hypertension,West
+930,70,Female,None,North
+931,26,Male,Hypertension,South
+932,69,Female,None,East
+933,74,Male,Heart Disease,East
+934,43,Male,None,North
+935,58,Female,Heart Disease,East
+936,52,Male,Diabetes,East
+937,80,Female,Heart Disease,South
+938,42,Female,Diabetes,South
+939,55,Male,Hypertension,North
+940,19,Female,None,South
+941,24,Female,Diabetes,North
+942,51,Female,Hypertension,West
+943,34,Female,None,North
+944,60,Female,None,West
+945,76,Female,Heart Disease,North
+946,68,Female,Hypertension,East
+947,71,Female,Heart Disease,South
+948,41,Male,Hypertension,West
+949,42,Male,None,North
+950,88,Female,None,South
+951,69,Male,None,North
+952,87,Female,None,South
+953,50,Female,Diabetes,South
+954,66,Male,None,North
+955,46,Female,None,West
+956,80,Female,Diabetes,West
+957,39,Female,None,East
+958,43,Female,Hypertension,South
+959,45,Male,Heart Disease,East
+960,66,Female,None,East
+961,88,Female,Heart Disease,North
+962,66,Female,Diabetes,North
+963,37,Male,Heart Disease,North
+964,80,Female,Heart Disease,South
+965,78,Male,None,North
+966,66,Male,Hypertension,North
+967,88,Female,Hypertension,South
+968,18,Female,None,South
+969,30,Male,Hypertension,West
+970,68,Female,Heart Disease,North
+971,73,Male,Heart Disease,North
+972,79,Male,None,North
+973,49,Female,Heart Disease,West
+974,47,Female,Heart Disease,North
+975,46,Male,Diabetes,West
+976,66,Male,Diabetes,East
+977,62,Male,Diabetes,West
+978,47,Male,Diabetes,East
+979,33,Female,Heart Disease,North
+980,57,Female,None,East
+981,36,Female,Heart Disease,West
+982,35,Female,None,South
+983,18,Female,None,East
+984,64,Male,None,East
+985,83,Female,Heart Disease,North
+986,55,Female,Heart Disease,West
+987,68,Female,Hypertension,East
+988,80,Female,Diabetes,East
+989,21,Female,Hypertension,East
+990,18,Male,None,East
+991,25,Male,None,South
+992,46,Male,Diabetes,West
+993,72,Female,Hypertension,North
+994,20,Male,None,North
+995,49,Male,Diabetes,South
+996,27,Female,Hypertension,West
+997,51,Female,None,East
+998,72,Female,Hypertension,South
+999,49,Male,Diabetes,West
+1000,67,Male,Heart Disease,East
