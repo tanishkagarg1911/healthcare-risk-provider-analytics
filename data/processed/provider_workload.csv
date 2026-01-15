@@ -1,0 +1,51 @@
+provider_id,department,total_encounters
+18,Neurology,80
+42,"General Medicine",75
+26,"General Medicine",74
+23,Neurology,74
+2,"General Medicine",69
+39,Cardiology,69
+15,Neurology,66
+16,"General Medicine",66
+7,"General Medicine",65
+44,Neurology,65
+24,"General Medicine",65
+48,Orthopedics,64
+13,Orthopedics,64
+34,Orthopedics,64
+21,Cardiology,64
+29,"General Medicine",64
+49,Cardiology,63
+5,"General Medicine",63
+45,Cardiology,63
+40,Neurology,62
+25,Neurology,61
+12,"General Medicine",61
+17,Orthopedics,61
+33,"General Medicine",61
+50,Orthopedics,60
+3,Cardiology,59
+28,Cardiology,59
+14,Cardiology,59
+35,"General Medicine",59
+9,"General Medicine",59
+6,Cardiology,59
+36,Neurology,57
+37,Orthopedics,57
+10,Neurology,57
+38,Cardiology,57
+20,Cardiology,56
+31,Cardiology,55
+4,Cardiology,55
+27,Neurology,54
+30,Orthopedics,54
+19,Neurology,54
+11,Orthopedics,53
+41,Cardiology,52
+22,Neurology,51
+1,Orthopedics,51
+32,"General Medicine",50
+46,Cardiology,50
+43,"General Medicine",49
+8,Neurology,49
+47,Neurology,42
